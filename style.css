@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+body{
+
+    background-image: url("./img/749821087_18069151565469035_6783780590395793268_n.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 0%;
+    border-radius: 0%;
+    border-color: darkred;
+    box-sizing: content-box;
+}
+head{
+    
+    color: yellow;
+    border-color: chocolate;
+    
+    
+}
+
+
